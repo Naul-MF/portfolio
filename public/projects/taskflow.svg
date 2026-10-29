@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0916"/>
+      <stop offset="100%" stop-color="#100a1e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g transform="rotate(-6 300 250)">
+    <rect x="180" y="60" width="200" height="400" rx="28" fill="#111111" stroke="#26203a" stroke-width="2"/>
+    <rect x="205" y="95" width="110" height="12" rx="6" fill="#3f3559"/>
+    <rect x="205" y="130" width="150" height="46" rx="12" fill="#171226" stroke="#7C3AED"/>
+    <circle cx="222" cy="153" r="7" fill="#7C3AED"/>
+    <rect x="240" y="147" width="90" height="10" rx="5" fill="#3f3559"/>
+    <rect x="205" y="190" width="150" height="46" rx="12" fill="#171226" stroke="#26203a"/>
+    <circle cx="222" cy="213" r="7" fill="none" stroke="#3f3559" stroke-width="2"/>
+    <rect x="240" y="207" width="80" height="10" rx="5" fill="#2a2440"/>
+    <rect x="205" y="250" width="150" height="46" rx="12" fill="#171226" stroke="#26203a"/>
+    <circle cx="222" cy="273" r="7" fill="none" stroke="#3f3559" stroke-width="2"/>
+    <rect x="240" y="267" width="100" height="10" rx="5" fill="#2a2440"/>
+    <rect x="205" y="400" width="150" height="38" rx="12" fill="#7C3AED"/>
+  </g>
+  <g transform="rotate(5 520 250)">
+    <rect x="440" y="80" width="200" height="400" rx="28" fill="#111111" stroke="#26203a" stroke-width="2"/>
+    <rect x="465" y="115" width="90" height="12" rx="6" fill="#3f3559"/>
+    <circle cx="540" cy="230" r="60" fill="none" stroke="#2a2440" stroke-width="12"/>
+    <circle cx="540" cy="230" r="60" fill="none" stroke="#A78BFA" stroke-width="12" stroke-dasharray="264 113" stroke-linecap="round" transform="rotate(-90 540 230)"/>
+    <text x="540" y="238" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#A78BFA" text-anchor="middle">70%</text>
+    <rect x="465" y="330" width="150" height="34" rx="10" fill="#171226" stroke="#26203a"/>
+    <rect x="465" y="376" width="150" height="34" rx="10" fill="#171226" stroke="#26203a"/>
+  </g>
+</svg>
